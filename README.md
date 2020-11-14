@@ -1,6 +1,6 @@
 # alekse
 #this is the password for the app / game
-he is so himself but this is my first job
+he is so izi but this is my first job
 
 print("*ЧТОБЫ ИГРАТЬ НУЖЕН ПАРОЛЬ*")
 print(''.ljust(4, "*"))
