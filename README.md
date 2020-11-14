@@ -17,4 +17,4 @@ while True:
         break
     else:
         print('Пароль неверный\nПопробуйте еще раз')
-        print(
+        print()
